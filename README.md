@@ -3,7 +3,7 @@
 ## Execution Steps:
 - Download repository as a zip file
 - Extract zip file
-- Open the Jupyter Notebook
+- Open the Jupyter Notebook ('A1_Hiba_Ansari_s4100892.ipynb')
 - Select 'Kernel' > 'Restart Kernel and Run All Cells'
 - Wait until all cells run
 
